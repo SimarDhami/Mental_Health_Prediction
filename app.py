@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request,jsonify
 import pickle, joblib 
-import pandas as pd
+
 
 app = Flask (__name__)
 #model = pickle.load(open("model.pkl", "rb"))
