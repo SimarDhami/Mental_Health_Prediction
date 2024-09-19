@@ -14,19 +14,19 @@ Important Note
 The predictions provided by the system are not definitive diagnoses. They serve as indicators based on patterns observed in the data. We highly recommend consulting a qualified mental health professional for a thorough evaluation and diagnosis.
 
 Technologies Used
-Python: Core programming language for the system.
-AdaBoostClassifier: Machine learning algorithm for training and prediction.
-Flask: Web framework used to deploy the system.
-HTML/CSS/JS: Frontend technologies for building the user interface.
+ Python: Core programming language for the system.
+ AdaBoostClassifier: Machine learning algorithm for training and prediction.
+ Flask: Web framework used to deploy the system.
+ HTML/CSS/JS: Frontend technologies for building the user interface.
 
 Privacy & Security
-We prioritize user privacy and ensure that all personal information and responses to the questionnaire are treated with the highest level of confidentiality. Data is securely stored, and we adhere to strict privacy policies in compliance with relevant data protection regulations.
+ We prioritize user privacy and ensure that all personal information and responses to the questionnaire are treated with the highest level of confidentiality. Data is securely stored, and we adhere to strict privacy policies in compliance with relevant data protection regulations.
 
 How to Use
-Visit the Mental Health Prediction System website.
-Complete the mental health questionnaire by answering all the questions honestly.
-Submit the form to receive your mental health prediction.
-For any concerns or further assistance, consult a mental health professional.
+ Visit the Mental Health Prediction System website.
+ Complete the mental health questionnaire by answering all the questions honestly.
+ Submit the form to receive your mental health prediction.
+ For any concerns or further assistance, consult a mental health professional.
 
 =>The Mental Health Prediction System is intended to provide general guidance and should not be relied upon for medical decisions. It is always advisable to seek the advice of a professional for any concerns about your mental health.
 
